@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-02-17T10:38:36.9984578",
+  "status": 500,
+  "message": "No static resource api/myAccount/1.",
+  "path": "uri=/api/myAccount/1"
+}
