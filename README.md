@@ -29,6 +29,7 @@ bank-app/
 ├── accounts-service/    # Gestion des comptes clients
 ├── cards-service/       # Gestion des cartes bancaires
 └── loans-service/       # Gestion des prêts
+└── config-server/       # Gestion des server 
 ```
 
 Chaque service suit une architecture en couches :
