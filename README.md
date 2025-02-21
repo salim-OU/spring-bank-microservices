@@ -12,6 +12,7 @@ Cette application bancaire propose trois services principaux :
 - **Service des comptes** : Gestion des comptes clients
 - **Service des cartes** : Gestion des cartes bancaires
 - **Service des prêts** : Gestion des prêts bancaires
+- **config-server** : Gestion de config-server
 
 ## 🛠 Technologies utilisées
 
